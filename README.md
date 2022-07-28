@@ -7,3 +7,5 @@
 📚 I studied earth science at university, finishing my PhD in 2018.
 
 🚜 In 2020, I joined the Department for Environment, Food and Rural Affairs, developing statistics on price inflation in agriculture.
+
+[![Si's GH summary](https://github-readme-stats.vercel.app/api?username=simaxwell)](https://github.com/anuraghazra/github-readme-stats)
