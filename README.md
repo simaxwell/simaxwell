@@ -1,9 +1,9 @@
 👋 Hello, my name is Si Maxwell.
 
-🌳 I am a data analyst at [Forest Research](https://www.forestresearch.gov.uk/), the research agency of the Forestry Commission, Great Britain's principal organisation for forestry and tree-related research.
+📈 I am a data analyst and statistician in the [UK Civil Service](https://www.gov.uk/government/organisations/civil-service).
 
-🥾 I'm a fan of R, hiking and trail running.
+📚 I studied earth science at university finishing my PhD in 2018.
 
-📚 I studied earth science at university, finishing my PhD in 2018.
+💻 Since 2020 I have worked in a variety of UK government departments and agencies.
 
-🚜 In 2020, I joined the Department for Environment, Food and Rural Affairs (Defra), developing statistics on price inflation in agriculture.
+🥾 In my spare time I'm a fan of trail running and hiking.
